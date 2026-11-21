@@ -15,4 +15,4 @@ The code turns the LED on for 1 second, then off for 1 second, repeatedly.
 - `delay(ms)`: wait in milliseconds.
 - `setup()` runs once; `loop()` runs forever.
 ## Simulation
-See `day02_led_blink.png` (screenshot placeholder).
+![Day 02 LED Blink Circuit](./day02_led_blink.png)
