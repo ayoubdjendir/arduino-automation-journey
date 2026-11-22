@@ -19,5 +19,4 @@ Reads button state with `digitalRead`, then uses `if/else` to control LED.
 - `if (condition) { } else { }`: control flow.
 - Pull-down resistor keeps pin LOW when button is not pressed.
 ## Simulation
-<img width="868" height="550" alt="image" src="https://github.com/user-attachments/assets/e5422bb5-95cb-4e04-9a2f-1bb883202c4a" />
-
+![Day 03 Button LED Circuit](./day03_button_led.png)
