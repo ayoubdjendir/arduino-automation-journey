@@ -11,3 +11,4 @@ This repository documents my 48-week journey learning Arduino, PLC, and Python t
 ### Week 1
 - Day 1: First Tinkercad circuit (Battery + Resistor + LED) ✅
 - Day 2: First Arduino code - LED Blink with digitalWrite & delay ✅
+- Day 3: Button controls LED with digitalRead and if/else ✅
